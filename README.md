@@ -1,7 +1,8 @@
 # Tower defense game engine
 Tower defense game engine which was made as a school project, it's only interface is through the terminal.
 
-[![asciicast](https://asciinema.org/a/CriNEXXSf0axrHKe6GQHJM7Qo.svg)](https://asciinema.org/a/CriNEXXSf0axrHKe6GQHJM7Qo)
+![github](https://github.com/hejlevoj/tower-defense/assets/88186696/2394c8ff-fdc4-45ef-9e93-80340f1eca09)
+
 
 ## Description
 Engine is using files in directory 'examples/' to load the definiton of the enemies, towers and the map
